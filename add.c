@@ -1,6 +1,7 @@
 #include <arithmetic.h>
 
-int add(int a, int b)
-{
-    return a+b;
+int add(int b,int c)
+{   
+    printf("더하기");
+    return b+c;
 }
