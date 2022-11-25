@@ -1,4 +1,5 @@
 #include <arithmetic.h>
+#include <stdio.h>
 
 int sub(int b, int c)
 {   
