@@ -1,7 +1,7 @@
 #include <arithmetic.h>
 
-int sub(int a, int b)
+int sub(int b, int c)
 {   
     printf("빼기");
-    return a-b;
+    return b-c;
 }
