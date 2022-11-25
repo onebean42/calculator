@@ -1,6 +1,8 @@
 #include <arithmetic.h>
+#include <stdio.h>
 
-int dur(int a, int b)
+int dur(int b, int c)
 {
-    return a/b;
+    printf("나누기");
+    return b/c;
 }
