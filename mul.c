@@ -1,6 +1,8 @@
 #include <arithmetic.h>
+#include <stdio.h>
 
-int mul(int a, int b)
+int mul(int b, int c)
 {
-    return a*b;
+    printf("곱하기");
+    return b*c;
 }
